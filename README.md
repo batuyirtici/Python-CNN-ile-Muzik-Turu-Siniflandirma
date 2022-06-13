@@ -6,7 +6,9 @@ CNN_Using_PreModel.py : Gerekli olan model dosyası repository içinde hazır bu
 
 ## Ağı Kendiniz Eğitmek İsterseniz
 Öncelikle GTZAN Dataseti'ni indirmeniz gerekiyor. Kaggle'dan indirebilirsiniz.
+
 Dataset_Preparation.py: Daha sonra ilk olarak bu dosyayı çalıştırıp dosyaların mfcc değerlerini içeren JSON dosyasını oluşturmalısınız.
+
 CNN_Network.py: JSON dosyası oluştuktan sonra bu dosya ile ağı eğitip model dosyasını kaydedebilirsiniz.
 
 ## Ekran Görüntüleri
