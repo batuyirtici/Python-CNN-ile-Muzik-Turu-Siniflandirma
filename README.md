@@ -1,4 +1,4 @@
-# Python-CNN-ile-Muzik-Turu-Siniflandirma
+# Python-CNN-ile-Muzik-Turu-Siniflandirma (Bilgisayar Mühendisliği Bitirme Projesi)
 Python &amp; CNN kullanarak müziklerin türünü sınıflandırma
 
 ## Projeyi Çalıştırma
